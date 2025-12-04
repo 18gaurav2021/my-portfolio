@@ -42,12 +42,22 @@ export default function Experience() {
     {
       role: 'Senior Software Developer',
       company: 'Nativebyte LLP',
-      period: '2016 – 2021',
+      period: 'March 2016 – June 2021',
       highlights: [
         'Built scalable React applications with RBAC',
         'Implemented RabbitMQ-based event-driven architecture',
         'Integrated Auth0 for secure authentication',
         'Worked with MSSQL and microservices',
+      ],
+    },
+     {
+      role: 'Software Engineer',
+      company: 'SSD Trust',
+      period: 'March 2013 – March 2016',
+      highlights: [
+        'Built applications with Html, css and JS',
+        'Design with bootstrap and vanilla Css',
+        'Integrated API for fetching data',        
       ],
     },
   ];
